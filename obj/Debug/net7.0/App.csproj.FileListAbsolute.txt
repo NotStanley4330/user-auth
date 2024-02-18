@@ -158,3 +158,4 @@
 /workspaces/user-auth/obj/Debug/net7.0/App.csproj.CopyComplete
 /workspaces/user-auth/obj/Debug/net7.0/App.genruntimeconfig.cache
 /workspaces/user-auth/obj/Debug/net7.0/ref/App.dll
+/workspaces/user-auth/bin/Debug/net7.0/app.db
